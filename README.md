@@ -1060,6 +1060,7 @@ See:
 ## more...
 
 Like this guide? Suggest some [more features](https://github.com/Jam3/math-as-code/issues/1) or send us a Pull Request!
+There is a Python version under the filename README-python.md
 
 ## Contributing
 
